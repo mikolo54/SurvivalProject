@@ -1,0 +1,27 @@
+name: SurvivalProject
+main: de.DerMicha.Survival
+version: 0.0.1
+authors: [DerMicha, DorianSnowball, Dargen, UnityCraft.net]
+
+commands:
+  world:
+  money:
+  vanish:
+    aliases: v
+  bank:
+  gm:
+    aliases: gamemode
+  fly:
+  ban:
+  feed:
+    aliases: eat
+  god:
+  unban:
+  heal:
+  help:
+  dbg:
+  npc:
+  tpa:
+  tpdeny:
+  tpaccept:
+  broadcast:
