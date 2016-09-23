@@ -1,1 +1,1 @@
-# Test
+Mein Freund und ich wollten ein "Projekt" aufziehen was alle anderen Citybuild Server im Hintergrund verlegt. Wir wollten die Community von Citybuild zeigen, das man mehr machen kann als nur Grundstücke kaufen, Farmen, Spaß haben. Wir wollten im Grunde versuchen einen Retrohaften Citybuild mit Modernen Features anbieten.
